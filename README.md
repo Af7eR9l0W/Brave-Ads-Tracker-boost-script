@@ -5,6 +5,7 @@ If you want to increase the number or useit for brave rewards in a vm use this!
 Requirements
 
 pip install pyautogui
+
 pip install keyboard
 
 
