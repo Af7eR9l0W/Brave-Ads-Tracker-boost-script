@@ -41,7 +41,7 @@
     <a href="https://github.com/Af7eR9l0W/Brave-Ads-Tracker-boost-script"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Af7eR9l0W/Brave-Ads-Tracker-boost-script">View Demo</a>
+   
     ·
     <a href="https://github.com/Af7eR9l0W/Brave-Ads-Tracker-boost-script/issues">Report Bug</a>
     ·
